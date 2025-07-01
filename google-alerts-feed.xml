@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
+    <title>Google Alerts Feed</title>
+    <link>https://BigBossOneHunna.github.io/google-alerts-feed/google-alerts-feed.xml</link>
+    <description>RSS feed generated from Google Alerts emails</description>
+    
+  <item>
+    <title><![CDATA[undefined]]></title>
+    <link>undefined</link>
+    <description><![CDATA[undefined]]></description>
+    <pubDate>Invalid Date</pubDate>
+  </item>
+
   </channel>
 </rss>
